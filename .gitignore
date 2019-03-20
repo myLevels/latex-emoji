@@ -125,3 +125,5 @@ sympy-plots-for-*.tex/
 *.bak
 *.sav
 /scrape_cache.sqlite
+
+.DS_Store
